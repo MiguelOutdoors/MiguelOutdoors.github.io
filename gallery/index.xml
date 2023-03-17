@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on Miguel Outdoors</title>
+    <link>https://migueloutdoors.github.io/gallery/</link>
+    <description>Recent content in Gallery on Miguel Outdoors</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="https://migueloutdoors.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://migueloutdoors.github.io/gallery/test/</link>
+      <pubDate>Fri, 17 Mar 2023 12:35:55 -0400</pubDate>
+      
+      <guid>https://migueloutdoors.github.io/gallery/test/</guid>
+      <description>I&amp;rsquo;m proud of this one.</description>
+    </item>
+    
+  </channel>
+</rss>
