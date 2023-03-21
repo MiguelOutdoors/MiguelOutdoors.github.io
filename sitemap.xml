@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://migueloutdoors.github.io/products-and-services/web-development/</loc>
+    <lastmod>2023-03-20T21:47:45-04:00</lastmod>
+  </url><url>
     <loc>https://migueloutdoors.github.io/products-and-services/art-prints/</loc>
     <lastmod>2023-03-16T18:14:00-04:00</lastmod>
   </url><url>
@@ -14,7 +17,7 @@
     <loc>https://migueloutdoors.github.io/blog/the-great-hugo-migration/</loc>
     <lastmod>2023-03-16T18:20:39-04:00</lastmod>
   </url><url>
-    <loc>https://migueloutdoors.github.io/products-and-services/fenix-aerial/</loc>
+    <loc>https://migueloutdoors.github.io/products-and-services/fenix-aerial-llc/</loc>
     <lastmod>2023-03-15T17:43:48-04:00</lastmod>
   </url><url>
     <loc>https://migueloutdoors.github.io/blog/winter-update-2023/</loc>
