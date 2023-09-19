@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://migueloutdoors.github.io/products-and-services/web-development/</loc>
-    <lastmod>2023-03-20T21:47:45-04:00</lastmod>
-  </url><url>
     <loc>https://migueloutdoors.github.io/products-and-services/art-prints/</loc>
     <lastmod>2023-03-16T18:14:00-04:00</lastmod>
   </url><url>
@@ -25,6 +22,9 @@
   </url><url>
     <loc>https://migueloutdoors.github.io/blog/spring-is-here/</loc>
     <lastmod>2023-03-26T20:20:01-04:00</lastmod>
+  </url><url>
+    <loc>https://migueloutdoors.github.io/products-and-services/web-development/</loc>
+    <lastmod>2023-03-20T21:47:45-04:00</lastmod>
   </url><url>
     <loc>https://migueloutdoors.github.io/gallery/miniburn/</loc>
     <lastmod>2023-03-17T12:35:55-04:00</lastmod>
