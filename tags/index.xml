@@ -6,5 +6,23 @@
     <description>Recent content in Tags on Miguel Outdoors</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://migueloutdoors.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://migueloutdoors.github.io/tags/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://migueloutdoors.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ulee</title>
+      <link>https://migueloutdoors.github.io/tags/ulee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://migueloutdoors.github.io/tags/ulee/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

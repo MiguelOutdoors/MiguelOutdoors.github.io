@@ -1,43 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Miguel Outdoors</title>
+    <title>Miguel Outdoors</title>
     <link>https://migueloutdoors.github.io/</link>
-    <description>Recent content in Home on Miguel Outdoors</description>
+    <description>Recent content on Miguel Outdoors</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://migueloutdoors.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Feb 2024 10:40:17 -0500</lastBuildDate><atom:link href="https://migueloutdoors.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Miguel Outdoors?</title>
-      <link>https://migueloutdoors.github.io/homepage/about/</link>
+      <link>https://migueloutdoors.github.io/blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://migueloutdoors.github.io/homepage/about/</guid>
+      <guid>https://migueloutdoors.github.io/blog/about/</guid>
       <description>Miguel Outdoors is the primary home for documenting all that I love to do. I write about my passions, interesting places that I&amp;rsquo;ve been, and I interview amazing people that I&amp;rsquo;ve met throughout my life. The goal is to develop a long journal of music, art, movement, and a love for the outdoors that I can both remember for myself, and share with others. I&amp;rsquo;m inspired by people like: Ben Kielesinski, Elina Osborne, as well as all the amazing people I&amp;rsquo;ve met here in Hampton Roads, Virginia.</description>
     </item>
     
     <item>
-      <title>Art Prints</title>
-      <link>https://migueloutdoors.github.io/products-and-services/art-prints/</link>
-      <pubDate>Thu, 16 Mar 2023 18:14:00 -0400</pubDate>
+      <title>My Cat Ulee</title>
+      <link>https://migueloutdoors.github.io/blog/2021-5-13-my-cat-ulee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://migueloutdoors.github.io/products-and-services/art-prints/</guid>
-      <description>Online Print Store
-If you like my art and would like a print, I can make them available for you, whether it&amp;rsquo;s currently on the store or not. Feel free to contact me for more information.
-More coming soon!</description>
+      <guid>https://migueloutdoors.github.io/blog/2021-5-13-my-cat-ulee/</guid>
+      <description>Intro too old for retrieving images. we must move forward to todays news!
+This adorable little monster is my cat Ulee (OO-lee). He&amp;rsquo;s a rescue cat that I got when I was having a hard time with mental health about 2 years ago here in Norfolk. At the time, I thought that maybe some kind of emotional support animal would be good for my health.
+Now, some people might say that it&amp;rsquo;s not a good idea to get an animal when you&amp;rsquo;re in that kind of place.</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://migueloutdoors.github.io/blog/test/</link>
-      <pubDate>Wed, 06 Mar 2024 17:59:25 -0500</pubDate>
-      
-      <guid>https://migueloutdoors.github.io/blog/test/</guid>
-      <description>This is a test post</description>
-    </item>
-    
-    <item>
-      <title>2024 02 26 Therapy</title>
+      <title>Therapy</title>
       <link>https://migueloutdoors.github.io/blog/2024-02-26-therapy/</link>
       <pubDate>Mon, 26 Feb 2024 10:40:17 -0500</pubDate>
       
@@ -58,7 +49,7 @@ ref
     </item>
     
     <item>
-      <title>2024 02 22 I&#39;m Back!!!!</title>
+      <title>I&#39;m Back!!!!</title>
       <link>https://migueloutdoors.github.io/blog/2024-02-22-im-back/</link>
       <pubDate>Thu, 22 Feb 2024 17:14:38 -0500</pubDate>
       
@@ -67,7 +58,16 @@ ref
     </item>
     
     <item>
-      <title>2023 06 16 Gone Camping</title>
+      <title>I want to get back into writing.</title>
+      <link>https://migueloutdoors.github.io/blog/2024-02-12-/</link>
+      <pubDate>Mon, 12 Feb 2024 19:58:32 -0500</pubDate>
+      
+      <guid>https://migueloutdoors.github.io/blog/2024-02-12-/</guid>
+      <description>I want to get back into writing.</description>
+    </item>
+    
+    <item>
+      <title>Gone Camping</title>
       <link>https://migueloutdoors.github.io/blog/2023-06-16-gone-camping/</link>
       <pubDate>Fri, 16 Jun 2023 13:48:16 -0400</pubDate>
       
@@ -78,7 +78,7 @@ A new website might be in the works, not for me, but for some good friends whom 
     </item>
     
     <item>
-      <title>2023 05 09 I Guess I Sell Art Now</title>
+      <title>I Guess I Sell Art Now</title>
       <link>https://migueloutdoors.github.io/blog/2023-05-09-i-guess-i-sell-art-now/</link>
       <pubDate>Tue, 09 May 2023 16:05:19 -0400</pubDate>
       
@@ -97,7 +97,7 @@ This was not necessarily the first piece that I wanted to post on the internet. 
     </item>
     
     <item>
-      <title>2023 04 03</title>
+      <title>Speech Recognition Software</title>
       <link>https://migueloutdoors.github.io/blog/2023-04-03/</link>
       <pubDate>Mon, 03 Apr 2023 20:26:21 -0400</pubDate>
       
@@ -164,7 +164,18 @@ Reading List Here&amp;rsquo;s my current reading list as well as a list of books
     </item>
     
     <item>
-      <title>Fenix Aerial LLC</title>
+      <title>Art Prints</title>
+      <link>https://migueloutdoors.github.io/products-and-services/art-prints/</link>
+      <pubDate>Thu, 16 Mar 2023 18:14:00 -0400</pubDate>
+      
+      <guid>https://migueloutdoors.github.io/products-and-services/art-prints/</guid>
+      <description>Online Print Store
+If you like my art and would like a print, I can make them available for you, whether it&amp;rsquo;s currently on the store or not. Feel free to contact me for more information.
+More coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Aerial Photography/Videography</title>
       <link>https://migueloutdoors.github.io/products-and-services/fenix-aerial-llc/</link>
       <pubDate>Wed, 15 Mar 2023 17:43:48 -0400</pubDate>
       
@@ -230,17 +241,6 @@ I have purchased an app, orders pots and started reading as much as I could.</de
       <guid>https://migueloutdoors.github.io/blog/hehe-long-time-no-see/</guid>
       <description>I was really excited that I could make this website. But as soon as it was up and it came time to write, a whole new challenge became apparent to me. I wouldn&amp;rsquo;t say I&amp;rsquo;m a writer, so actually making posts on this website presents a scary challenge 😖.
 Well I&amp;rsquo;m back! I think I&amp;rsquo;ve found a way to make writing a bit easier. As the tech entrepreneurs say, I&amp;rsquo;ve &amp;ldquo;updated my workflow&amp;rdquo; to make it so that I can do the bulk of this writing on my phone!</description>
-    </item>
-    
-    <item>
-      <title>My Cat Ulee</title>
-      <link>https://migueloutdoors.github.io/blog/2021-5-13-my-cat-ulee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://migueloutdoors.github.io/blog/2021-5-13-my-cat-ulee/</guid>
-      <description>too old for retrieving images. we must move forward to todays news!
-This adorable little monster is my cat Ulee (OO-lee). He&amp;rsquo;s a rescue cat that I got when I was having a hard time with mental health about 2 years ago here in Norfolk. At the time, I thought that maybe some kind of emotional support animal would be good for my health.
-Now, some people might say that it&amp;rsquo;s not a good idea to get an animal when you&amp;rsquo;re in that kind of place.</description>
     </item>
     
   </channel>

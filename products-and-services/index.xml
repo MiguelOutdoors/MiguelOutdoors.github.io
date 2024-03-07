@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products and Services on Miguel Outdoors</title>
+    <title>Products-and-services on Miguel Outdoors</title>
     <link>https://migueloutdoors.github.io/products-and-services/</link>
-    <description>Recent content in Products and Services on Miguel Outdoors</description>
+    <description>Recent content in Products-and-services on Miguel Outdoors</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://migueloutdoors.github.io/products-and-services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2023 21:47:45 -0400</lastBuildDate><atom:link href="https://migueloutdoors.github.io/products-and-services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development</title>
+      <link>https://migueloutdoors.github.io/products-and-services/web-development/</link>
+      <pubDate>Mon, 20 Mar 2023 21:47:45 -0400</pubDate>
+      
+      <guid>https://migueloutdoors.github.io/products-and-services/web-development/</guid>
+      <description>Do you like this website? Thanks so much, I built it myself you know. At this time I only know how to do create static sites. And, my availability to do so will likely be pretty limited this year. But if the price and timing is right, I&amp;rsquo;d love to help you our with your online project!</description>
+    </item>
+    
     <item>
       <title>Art Prints</title>
       <link>https://migueloutdoors.github.io/products-and-services/art-prints/</link>
@@ -19,16 +28,7 @@ More coming soon!</description>
     </item>
     
     <item>
-      <title>Web Development</title>
-      <link>https://migueloutdoors.github.io/products-and-services/web-development/</link>
-      <pubDate>Mon, 20 Mar 2023 21:47:45 -0400</pubDate>
-      
-      <guid>https://migueloutdoors.github.io/products-and-services/web-development/</guid>
-      <description>Do you like this website? Thanks so much, I built it myself you know. At this time I only know how to do create static sites. And, my availability to do so will likely be pretty limited this year. But if the price and timing is right, I&amp;rsquo;d love to help you our with your online project!</description>
-    </item>
-    
-    <item>
-      <title>Fenix Aerial LLC</title>
+      <title>Aerial Photography/Videography</title>
       <link>https://migueloutdoors.github.io/products-and-services/fenix-aerial-llc/</link>
       <pubDate>Wed, 15 Mar 2023 17:43:48 -0400</pubDate>
       
