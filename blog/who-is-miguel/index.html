@@ -197,7 +197,108 @@
     </nav>
 </header>
 <main id="content">
+    <div class="post container">
+    <div class="post-header-section">
+        <h1>Who Even is Miguel?</h1>
+        <small role="doc-subtitle"></small>
+        <p class="post-date">March 17, 2023
+        
+        </p>
+
+        <ul class="post-tags">
+        
+        </ul>
+    </div>
+
+    <div class="post-content">
+        <p>
+            <p>I was born in Mexico and raised for the most part in Norther Virginia. When I graduated college I moved to Norfolk, Virginia. The idea was that if I was going to be an engineer, I might as well be one near the beach! 🏖️ Living here has been an absolute treat. I&rsquo;ve had so many opportunities to grow. But only the future knows if I will stay.</p>
+<h2 id="reading-list">Reading List</h2>
+<p>Here&rsquo;s my current <a href="https://www.goodreads.com/review/list/66568677-miguel-lopez-rivera?ref=nav_mybooks&amp;shelf=currently-reading">reading list</a> as well as a list of books I might <a href="https://www.goodreads.com/review/list/66568677-miguel-lopez-rivera?ref=nav_mybooks&amp;shelf=to-read">want to read</a> someday. Please send me book recommendations! 🤓.</p>
+<h2 id="hobbies">Hobbies</h2>
+<ul>
+<li>Rock Climbing</li>
+<li>Backpacking</li>
+<li>Kayaking</li>
+<li>Paint</li>
+<li>Slackline</li>
+</ul>
+<p>Notice how writing is not on here? To be honest, despite having this website, I struggle with writing. So if you catch spelling mistakes or would like to comment on my writing please do 😄.</p>
+<h2 id="hiking-bucket-list">Hiking Bucket List</h2>
+<ul>
+<li><input disabled="" type="checkbox"> Dolly Sods West Virginia</li>
+<li><input disabled="" type="checkbox"> Natural Bridge</li>
+<li><input disabled="" type="checkbox"> Big Devils Stairs Trail</li>
+<li><input disabled="" type="checkbox"> The Channels Virginia</li>
+<li><input checked="" disabled="" type="checkbox"> Hike the Virginia Triple Crown</li>
+</ul>
+<p>Eventually I&rsquo;d like to try a long thru hike. But, as I&rsquo;ve come to find out recently, I might not have healthy enough knees to support it anymore. Might write more on this struggle later.</p>
+<h2 id="kayaking-bucket-list">Kayaking Bucket List</h2>
+<ul>
+<li><input disabled="" type="checkbox"> 3 day Kayak trip with an overnight camp at an island somewhere</li>
+<li><input disabled="" type="checkbox"> Climb a big buoy and do a backflip off of it.</li>
+<li><input disabled="" type="checkbox"> Safely roll a kayak</li>
+<li><input disabled="" type="checkbox"> Lake Moomaw</li>
+<li><input disabled="" type="checkbox"> Lake Drummond</li>
+</ul>
+<h2 id="climbing-bucket-list">Climbing Bucket List</h2>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Pass a Lead Climbing Test</li>
+<li><input checked="" disabled="" type="checkbox"> Climb outside next year (2022)</li>
+<li><input checked="" disabled="" type="checkbox"> Climb a 5.9 Lead Route</li>
+<li><input disabled="" type="checkbox"> Visit Red River Gorge West Virginia</li>
+<li><input checked="" disabled="" type="checkbox"> Visit New River Gorge West Virginia</li>
+</ul>
+
+        </p>
+        
+    </div>
+
+    <div class="prev-next">
+        
+    </div>
+
     
+    
+    <svg id="btt-button" class="arrow-logo" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512" onclick="topFunction()" title="Go to top">
+        
+        <path d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/>
+    </svg>
+    <script>
+        let backToTopButton = document.getElementById("btt-button");
+
+        window.onscroll = function() {
+            scrollFunction()
+        };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                backToTopButton.style.display = "block";
+            } else {
+                backToTopButton.style.display = "none";
+            }
+        }
+
+        function topFunction() {
+            smoothScrollToTop();
+        }
+
+        function smoothScrollToTop() {
+            const scrollToTop = () => {
+                const c = document.documentElement.scrollTop || document.body.scrollTop;
+                if (c > 0) {
+                    window.requestAnimationFrame(scrollToTop);
+                    window.scrollTo(0, c - c / 8);
+                }
+            };
+            scrollToTop();
+        }
+    </script>
+    
+    
+</div>
+
+
 
     
 
